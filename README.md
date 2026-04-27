@@ -53,3 +53,15 @@ For SOC and cybersecurity work, this matters because analysts need to understand
 
 ## Key Takeaway
 This lab provided hands-on exposure to both classic and modern cryptographic methods and reinforced the practical differences between substitution ciphers, symmetric encryption, and asymmetric encryption.
+
+## Screenshots
+
+### Caesar Cipher
+![JCrypTool Caesar Cipher](jcryptool-caesar-cipher.png)
+
+### AES Encryption
+![JCrypTool AES Encryption](jcryptool-aes-encryption.png)
+
+### RSA Encryption
+![JCrypTool RSA Encryption](jcryptool-rsa-encryption.png)
+
